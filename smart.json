@@ -1,3 +1,11 @@
 {
-  "packages": {}
+  "packages": {
+    "iron-router": {},
+    "roles": {},
+    "bootstrap-3": {},
+    "npm": {},
+    "spin": {},
+    "autoform": {},
+    "marked": {}
+  }
 }
